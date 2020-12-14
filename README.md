@@ -13,8 +13,7 @@ https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Questions_Test_mscoco.zip
 First traing the model for detection the question type in train_VQA_clf.ipynb.
 
 
-Second save the model to be use it later to generate a response. 
-
+Second save the model to be used later to generate a response in the main file. 
 
 The STT and TSS is an optional plug and play feature that you can integrate it into the system to serve the purpose of the end-to-end system.
 
